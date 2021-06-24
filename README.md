@@ -9,3 +9,6 @@ The proposed pipeline solution:
 The dataset used:  https://arxiv.org/abs/2004.09813
 
 The solution was implemented using Google colab. 
+
+![Screenshot from 2021-06-24 23-18-54](https://user-images.githubusercontent.com/38796108/123327123-b9ff3480-d542-11eb-814c-a4183724bcad.png)
+
