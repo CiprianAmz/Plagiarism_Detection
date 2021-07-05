@@ -4,7 +4,8 @@ Diploma project on plagiarism detection
 
 The proposed pipeline solution:
 
-![fig1DataAnalysisPipeline](https://user-images.githubusercontent.com/38796108/123322503-13646500-d53d-11eb-883e-d5affb3152e5.png)
+![fig1DataAnalysisPipeline](https://user-images.githubusercontent.com/38796108/124478421-d6566900-ddad-11eb-9502-dd114bca2099.png)
+
 
 The dataset used:  https://arxiv.org/abs/2004.09813
 
