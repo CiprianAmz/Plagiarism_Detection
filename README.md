@@ -1,4 +1,4 @@
-# Plagiarism_Detection
+# [obsolete] The development was moved to: https://github.com/ML-UCV/Combining-Encoplot-and-Based-Deep-Learning-for-Plagiarism-Detection
 Diploma project on plagiarism detection
 
 
